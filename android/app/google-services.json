@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242605789707",
+    "project_id": "coffee-maker-67f1d",
+    "storage_bucket": "coffee-maker-67f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242605789707:android:1cf4736202f9fb2185ed0e",
+        "android_client_info": {
+          "package_name": "com.junejuly.coffee_maker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242605789707-iibccaul8vl0fg0kvre1qhb54oa9apkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeWmXG1bK1VJBEl0Ypl-_n2vAuxPO5JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242605789707-iibccaul8vl0fg0kvre1qhb54oa9apkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
